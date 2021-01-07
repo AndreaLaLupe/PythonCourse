@@ -15,3 +15,6 @@ def second_function():
 my_list=[1,2,
          3,4,
          5,6]
+
+print("Hello", "Hi")
+x = 3*52 + 7*2
